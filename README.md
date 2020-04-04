@@ -8,4 +8,8 @@ another
 an unmergeble modify
 change
 
+ a local merge against remote
+
+ change
+
 another another change
