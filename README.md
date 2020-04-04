@@ -5,7 +5,7 @@ a test
 a change
 
 another
-an unmergeble fsdfs modify
+an unmergeble modify
 change
 
  a local merge against remote
