@@ -4,6 +4,8 @@ a test
 
 a change
 
-another change
+another
+an unmergeble modify
+change
 
 another another change
